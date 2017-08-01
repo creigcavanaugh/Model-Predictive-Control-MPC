@@ -9,7 +9,7 @@
 [image2]: ./output/low_N_effect_snapshot.png
 [image3]: ./output/latency_out.gif
 [image4]: ./output/latency_corr_out.gif
-[video1]: ./output/MPC_Video.mp4
+[video1]: ./output/output.mp4
 
 ### [Rubric](https://review.udacity.com/#!/rubrics/896/view) Points
 
@@ -80,5 +80,5 @@ Artificial latency is built into `main.cpp` on line 213 to simulate latency that
 
 The controller as implemented safely achieves over 95 mph in some sections of track.
 
-Here's a [link to my video result](./output/MPC_Video.mp4)
+Here's a [link to my video result](./output/output.mp4)
 
